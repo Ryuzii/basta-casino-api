@@ -1,0 +1,44 @@
+{
+  "name": "basta-casino-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/games.test.js"
+  },
+  "keywords": [
+    "casino",
+    "discord",
+    "games",
+    "api",
+    "bot",
+    "slots",
+    "blackjack",
+    "roulette",
+    "coinflip",
+    "dice",
+    "minesweeper",
+    "lottery",
+    "rps",
+    "crash",
+    "hilo",
+    "war",
+    "wheel"
+  ],
+  "author": "Ryuzii <https://github.com/Ryuzii>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": "A fast, easy-to-use, and stable casino games API for Discord bots and Node.js apps. Includes blackjack, roulette, slots, coinflip, dice, and more.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ryuzii/basta-casino-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ryuzii/basta-casino-api/issues"
+  },
+  "homepage": "https://github.com/Ryuzii/basta-casino-api#readme"
+}
